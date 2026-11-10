@@ -1,0 +1,10 @@
+{
+  "workshopTutor.contentGuideId": "029d6c4e-4775-41c9-85ff-9f5360f32a15",
+  "workshopTutor.locale": "en-US",
+  "workshopTutor.revealViewOnFirstRun": false,
+  "files.exclude": {
+    ".workshop": true,
+    ".workshop-tutor": true,
+    ".vscode": true
+  }
+}
